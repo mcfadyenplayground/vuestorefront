@@ -1,1 +1,1 @@
-# vuestorefront
+Vue storefront wiki and documentation
